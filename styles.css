@@ -161,3 +161,7 @@ body {
     background-color: rgb(36, 36, 36);
     color: var(--branco-principal);
 }
+
+.lista_icone:hover {
+    width: 105%;
+}
